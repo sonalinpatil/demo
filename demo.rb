@@ -7,6 +7,7 @@ class Student
   def intro
     p "My name is {@name}"
     p "My age is #{@age}"
+    p "Hi welcome in Rails Girls"
   end
 end
 p "Enter your name"
